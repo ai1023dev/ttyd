@@ -52,7 +52,7 @@ const baseConfig = {
                 removeComments: true,
                 collapseWhitespace: true,
             },
-            title: 'ttyd - Terminal',
+            title: 'Siliod - CLI',
             template: './template.html',
         }),
     ],
